@@ -3,7 +3,7 @@
 [![Platform](https://img.shields.io/cocoapods/p/LFAlertController.svg?style=flat)](https://www.apple.com/ios/ios-11/)
 [![Build Status](https://travis-ci.org/dwyl/esta.svg?branch=master)](https://travis-ci.org/dwyl/esta)
 
-An iOS app to browse and stream podcasts on our device.
+An iOS app to browse and stream podcasts on yout device, with support for background audio and local playback.
 
 ![](img/logo.png)
 
@@ -48,7 +48,7 @@ An iOS app to browse and stream podcasts on our device.
 
 
 ## Modules/Integrations Used
-- Alamofire to fetch data from the iTunes
+- Alamofire to fetch data from the iTunes API
 
 
 
