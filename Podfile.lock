@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (4.7.3)
+  - FeedKit (8.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - FeedKit
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - FeedKit
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  FeedKit: 4a78f07adf7f0a224b904014678f1de82a7ffc21
+
+PODFILE CHECKSUM: 62cc0d5feb66da2196a29b4c2e4515f84943e213
+
+COCOAPODS: 1.5.3
